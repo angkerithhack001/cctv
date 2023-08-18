@@ -8,5 +8,5 @@ apt install git
 apt install python
 git clone https://github.com/angkerithhack001/cctv.git
 cd cctv
-python cctv.py
+python cctv_hack.py
 ```
